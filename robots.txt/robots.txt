@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://yougotcapsed.github.io/BC-website/sitemap.xml
